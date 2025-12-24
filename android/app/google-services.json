@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017077662968",
+    "project_id": "hubstyle-58994",
+    "storage_bucket": "hubstyle-58994.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017077662968:android:5660974092a2fee1ee270d",
+        "android_client_info": {
+          "package_name": "com.example.untitled7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMqmOWRdzqGOoIIbuYfZSQp5n_Qd-qTvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
